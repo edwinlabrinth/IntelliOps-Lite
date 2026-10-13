@@ -1,6 +1,3 @@
-A - LACHHAB MOHAMMED
-
-C - EL MOUSSAOUI MOUSSA
 
 ## Équipe 
 intelliops-lite/ 
