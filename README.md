@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A - LACHHAB MOHAMMED
 
 C - EL MOUSSAOUI MOUSSA
@@ -5,6 +6,10 @@ C - EL MOUSSAOUI MOUSSA
 ## Équipe
 - Moussa El Moussaoui : agent Notification (C)
 
+=======
+A - LACHHAB Mohammed
+## Équipe 
+>>>>>>> cd393b85756c02272245987fc0ca3777cdad8ccb
 intelliops-lite/ 
 ├── README.md 
 ├── .gitignore 
