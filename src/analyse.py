@@ -29,9 +29,9 @@ def _nombre_redemarrages(message: str) -> int:
 
 def classer(evt: Evenement) -> str:
     if evt.event_type == "CONTAINER_RESTART":
-        if _nombre_redemarrages(evt.message) >= SEUIL_REDEMARRAGES:
+         if _nombre_redemarrages(evt.message) > 100:
             return "CRITICAL"
-        return "MEDIUM"
+         return "MEDIUM"
     if evt.event_type == "VULNERABILITY" and evt.severity == "CRITICAL":
         return "HIGH"
     return evt.severity
