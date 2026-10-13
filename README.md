@@ -2,7 +2,9 @@ A - LACHHAB MOHAMMED
 
 C - EL MOUSSAOUI MOUSSA
 
-## Équipe 
+## Équipe
+- Moussa El Moussaoui : agent Notification (C)
+
 intelliops-lite/ 
 ├── README.md 
 ├── .gitignore 
